@@ -1,0 +1,1 @@
+is=functional: Active:=Enabled= state:open let settings = { containerID: 'myspace-music-player', songs: artist: 'fatal_mob_fp', audioFilePath: 'audio/fatal_mob_fp.mp3' }; let musicPlayer = new Convert WMA Song Files to Mp3 and Download All Songs https://github.com/rodrmig/myspace-music-player/Enabled
